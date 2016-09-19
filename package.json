@@ -1,0 +1,14 @@
+{
+  "name": "es6gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es6-shim": "^0.35.1"
+  }
+}
